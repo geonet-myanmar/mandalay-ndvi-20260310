@@ -1,0 +1,6 @@
+pystac-client
+planetary-computer
+rasterio
+numpy
+matplotlib
+shapely
